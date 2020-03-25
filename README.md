@@ -1,6 +1,3 @@
-Vy Truong
-A16103482
-
 # Lab 6
 
 ## Introduction
